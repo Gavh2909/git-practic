@@ -12,6 +12,9 @@ class Main{
        return 33;
     }
 
+    // This is changed in MAin branch
+    String main = "Changed";
+
     public static boolean isTrue(){
         return true;
     }
