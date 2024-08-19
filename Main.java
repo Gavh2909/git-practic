@@ -11,5 +11,9 @@ class Main{
     public static int getAge(){
        return 33;
     }
+
+    public static boolean isTrue(){
+        return true;
+    }
 }
 
