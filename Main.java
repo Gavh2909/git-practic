@@ -2,6 +2,6 @@
 class Main{
     public static void main(String[] args) {
         getName();
-        String name = "Satish";
+        Hello
     }
 }
